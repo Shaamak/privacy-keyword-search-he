@@ -1,0 +1,1 @@
+Homomorphic encryption enables private search on cloud data.
